@@ -1,0 +1,1 @@
+print("sarfraz bhai ki jqai ho")
